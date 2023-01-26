@@ -1,6 +1,6 @@
 # A Simple Algorithm For Scaling Up Kernel Method
 
-This is repository contains the code and supplementary material for the paper: A Simple Algorithm For Scaling Up Kernel Method.
+This repository contains the code and supplementary material for the paper: A Simple Algorithm For Scaling Up Kernel Method.
 
 Conventional wisdom suggests kernel methods are unsuitable for large samples due to their computational complexity and memory requirements. 
 We introduce a novel random feature regression algorithm that allows us (when necessary) to scale to virtually _infinite_ numbers of random features. We illustrate the performance of our method on the CIFAR-10 dataset.

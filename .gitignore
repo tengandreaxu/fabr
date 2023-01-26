@@ -18,7 +18,7 @@ results/FABRBatch/*/*/*.pdf
 results/FABRNu/*/*/spectral_*.png
 results/FABRBatch/*/*/spectral_*.png
 results/resnet_on_cifar/*
-**/spectral_*.png
+**/spectral_accuracy*.png
 **/*.tex
 results/sklearn_comparison/*.csv
 *.out
